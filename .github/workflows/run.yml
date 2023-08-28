@@ -27,9 +27,9 @@ jobs:
         run: |
           python3 main.py
         env:
-          userIds: ${{ secrets.GAME_USERIDS }}
-          authKeys: ${{ secrets.GAME_AUTHKEYS }}
-          secretKeys: ${{ secrets.GAME_SECRETKEYS }}
-          UserAgent: ${{ secrets.GAME_USERAGENT }}
-          fateRegion: ${{ secrets.GAME_REGION }}
-          webhookDiscord: ${{ secrets.DISCORD_WEBHOOK }}
+          userIds: ${{ secrets.318753927 }}
+          authKeys: ${{ secrets.ybbyHL6gS3UbAhxa:iFCWBwAAAAA= }}
+          secretKeys: ${{ secrets.mAHl18ajaMnvJvLV:iFCWBwAAAAA= }}
+          UserAgent: ${{ secrets.Mozilla/5.0 (Linux; Android 10; SM-A750GN Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.168 Mobile Safari/537.36 OPX/2.1 }}
+          fateRegion: ${{ secrets.JP }}
+          webhookDiscord: ${{ secrets.https://discord.com/api/webhooks/1026520076033216625/JAAw_5smrlnvpY01Pvsi7X5g3GtsC6jrf-EI-Yx0SvZ9k8F2sj_jf_6qiRUBLV4Wk_eq }}
